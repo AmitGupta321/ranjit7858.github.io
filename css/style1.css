@@ -432,3 +432,10 @@ section .heading b{
         transform: initial;
     }
 }
+.white-color{
+  color: white;
+}
+.white-color:hover{
+  color: rgb(209, 91, 12);
+    transition: ease-in 300ms;
+}
