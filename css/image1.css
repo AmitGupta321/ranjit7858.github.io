@@ -44,6 +44,7 @@ body{
 .cont p{
     display: flex;
     font-family: 'Oswald', sans-serif;
+    color:black;
 
 }
 @media (max-width:950px) {
