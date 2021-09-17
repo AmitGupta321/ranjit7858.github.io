@@ -53,7 +53,6 @@ body{
         flex-direction: column;
         padding-left: 50px;
         background: url(../image/comp.jpeg) no-repeat center center/cover;
-        transition: 4s;
     }
   .img1{
       height: 0%;
@@ -67,10 +66,9 @@ body{
   
 }
 @media (max-width:450px) {
-  .imgcnt{
+/*   .imgcnt{
       
-      transition: 4s;
-  }
+  } */
   .cont p{
     color: #000;
 }
