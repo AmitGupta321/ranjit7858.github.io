@@ -212,7 +212,7 @@ section .heading b{
 	width: 350px;
 	color: #fff;
 	background: #222;
-	margin: 40px 10px;
+	margin: 40px 30px;
 	padding: 30px 20px;
 	border-radius: 50px;
 	transition: 0.3s ease;
@@ -289,6 +289,9 @@ section .heading b{
     background-position: left bottom;
     transition: background-size 0.3s ease;
     color: #ffd900a4;
+}
+#container3_box{
+  padding-top: 50px;
 }
 #our_service:hover{
     background-size: 100% 3px;
