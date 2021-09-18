@@ -389,10 +389,6 @@ section .heading b{
     transform:translateY(0px);
 }
 @media (max-width: 991px){
-    body::before{
-
-        clip-path: circle(0px at center);
-    }
     .container_card{
         width: 100%;
         height: initial;
